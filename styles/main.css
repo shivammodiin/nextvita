@@ -1,0 +1,70 @@
+@import url("./mvp.css");
+
+:root {
+  --color: #103de8;
+  --color-text-secondary: #565454;
+}
+div header {
+  padding: 3rem 1rem;
+}
+a:hover {
+  text-decoration: none;
+}
+form {
+  width: 400px;
+}
+input {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 0;
+  padding-left: 10px;
+}
+select {
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 0px;
+}
+textArea {
+  font-family: Arial;
+  width: 100%;
+  padding-right: 0;
+  padding-left: 10px;
+}
+
+section aside:only-child {
+  border: none;
+  width: 75%;
+  box-shadow: none;
+}
+
+section#blogs aside:only-child {
+  width: var(--width-card);
+  border: 1px solid var(--color-bg-secondary);
+  box-shadow: var(--box-shadow) var(--color-shadow);
+}
+
+section aside:only-child :hover {
+  box-shadow: none;
+}
+
+@media only screen and (max-width: 768px) {
+  section aside:only-child {
+    width: 85%;
+  }
+}
+@media only screen and (max-width: 480px) {
+  header nav ul li:last-child {
+    display: none;
+  }
+}
+@media only screen and (max-width: 430px) {
+  header nav ul li:nth-last-of-type(-n + 2) {
+    display: none;
+  }
+}
+@media only screen and (max-width: 350px) {
+  header nav ul li:first-child {
+    display: none;
+  }
+}

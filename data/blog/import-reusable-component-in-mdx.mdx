@@ -1,0 +1,64 @@
+---
+title: "Import component in blog"
+publishedAt: "2021-06-04"
+summary: "Normally using md file we can just use html elements, but with mdx file we can also import custom components. "
+image: "/static/images/blog_3.png"
+---
+
+## Why Component?
+
+Making website with reusable component make easy and save time for building the website. Using reusable component is the modern way for developing any web project.
+
+---
+## Importing Image using Custom Component
+
+### Code in MDX
+
+```
+<Image
+  alt={`NextVita Logo`}
+  src={`/logo.png`}
+  width={211}
+  height={60}
+/>
+```
+
+Output in the blog page is as Below
+
+<Image
+  alt={`NextVita Logo`}
+  src={`/logo.png`}
+  width={211}
+  height={60}
+/>
+
+---
+
+## Testimonials Component in blog
+
+We will use Testimonials component we used in the home page to show how we can use any custom component in blog using mdx file.
+
+## Code to Implement
+
+### file _app.js
+
+```
+import Testimonials from "../components/Testimonials";
+...
+
+<MDXProvider components={{ Image, Testimonials }}>
+...
+```
+
+
+Once you have imported that component in the ```pages/_app.js``` file we can use it on mdx file. 
+
+### file import-reusable-component-in-mdx.mdx 
+```
+<Testimonials />
+```
+
+Below is the output of the above code. 
+
+
+<Testimonials />
