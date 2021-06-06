@@ -53,7 +53,7 @@ section aside:only-child :hover {
     width: 85%;
   }
 }
-@media only screen and (max-width: 480px) {
+/* @media only screen and (max-width: 480px) {
   header nav ul li:last-child {
     display: none;
   }
@@ -64,6 +64,14 @@ section aside:only-child :hover {
   }
 }
 @media only screen and (max-width: 350px) {
+  header nav ul li:first-child {
+    display: none;
+  }
+} */
+@media only screen and (max-width: 360px) {
+  header nav ul li:nth-last-of-type(-n + 2) {
+    display: none;
+  }
   header nav ul li:first-child {
     display: none;
   }

@@ -21,6 +21,11 @@ const Header = ({ HeroComp }) => (
           </Link>
         </li>
         <li>
+          <a href="https://github.com/shivammodi456/nextvita" target="_blank">
+            GitHub ↗
+          </a>
+        </li>
+        <li>
           <Link href="/about">
             <a>About</a>
           </Link>
