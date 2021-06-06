@@ -1,7 +1,16 @@
 {
-  "name": "next-blog",
+  "name": "NextVita",
+  "description": "NextVita is a free Next Js boilerplate aimed for a 100% score in the lighthouse to get maximum benefits from the Google Core Web Vital SEO update.",
   "version": "0.1.0",
-  "private": true,
+  "author": {
+    "name": "Shivam Modi",
+    "url": "https://nextvita.vercel.app/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivammodi456/nextvita.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
