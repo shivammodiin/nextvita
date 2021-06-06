@@ -1,4 +1,4 @@
-![NextVita Boilerplate](/public/static/images/banner.png)
+![NextVita Boilerplate](https://nextvita.vercel.app/static/images/banner.png)
 
 # 100% Lighthouse Score Next JS Free Template
 
@@ -13,7 +13,7 @@ NextVita is Next Js boilerplate aimed for 100% score in lighthouse 🚀 to get m
 
 ## Features
 
-![NextVita](/public/static/images/lighthouse.webp)
+![NextVita](https://nextvita.vercel.app/static/images/lighthouse.webp)
 
 - 🚀 100% Lighthouse Score 💯
 - 📈 Google Analytics Integrated
@@ -29,10 +29,10 @@ NextVita is Next Js boilerplate aimed for 100% score in lighthouse 🚀 to get m
 
 ## Quick links
 
-| | |
-|-|-|
-| **Live Demo** | https://nextvita.vercel.app |
-| **Git Repo** | https://github.com/shivammodi456/nextvita |
+|                   |                                                  |
+| ----------------- | ------------------------------------------------ |
+| **Live Demo**     | https://nextvita.vercel.app                      |
+| **Git Repo**      | https://github.com/shivammodi456/nextvita        |
 | **Issue Tracker** | https://github.com/shivammodi456/nextvita/issues |
 
 ## Tech
@@ -84,7 +84,7 @@ npm run dev
 The application should be available at `http://localhost:3000`.
 To build the project run `npm run build` and to start run `npm start` in production mode.
 
-![Template Screenshot 1](/public/static/images/screenshot_1.png)
+![Template Screenshot 1](https://nextvita.vercel.app/static/images/screenshot_1.png)
 
 ## Welcome Contributors
 
