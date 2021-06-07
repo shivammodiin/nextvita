@@ -68,8 +68,8 @@ section aside:only-child :hover {
     display: none;
   }
 } */
-@media only screen and (max-width: 360px) {
-  header nav ul li:nth-last-of-type(-n + 2) {
+@media only screen and (max-width: 450px) {
+  header nav ul li:last-child {
     display: none;
   }
   header nav ul li:first-child {
