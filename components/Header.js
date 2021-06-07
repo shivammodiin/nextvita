@@ -19,7 +19,12 @@ const Header = ({ HeroComp }) => {
             </a>
           ) : (
             <a>
-              <Image src="/logo2.png" alt="img-logo" width="60" height="60" />
+              <Image
+                src="/logo2.png"
+                alt="img-logo-mobile"
+                width="60"
+                height="60"
+              />
             </a>
           )}
         </Link>
