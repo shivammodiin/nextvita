@@ -68,7 +68,16 @@ section aside:only-child :hover {
     display: none;
   }
 } */
+header nav > a:nth-child(2) {
+  display: none;
+}
 @media only screen and (max-width: 450px) {
+  header nav > a:first-child {
+    display: none;
+  }
+  header nav > a:nth-child(2) {
+    display: block;
+  }
   header nav ul li:last-child {
     display: none;
   }

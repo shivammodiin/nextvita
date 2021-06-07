@@ -13,20 +13,19 @@ const Header = ({ HeroComp }) => {
     <header>
       <nav>
         <Link href="/">
-          {width > 450 ? (
+          <>
             <a>
               <Image src="/logo.png" alt="img-logo" width="211" height="60" />
             </a>
-          ) : (
             <a>
-              <Image
+              <img
                 src="/logo2.png"
                 alt="img-logo-mobile"
                 width="60"
                 height="60"
               />
             </a>
-          )}
+          </>
         </Link>
         <ul>
           <li>
