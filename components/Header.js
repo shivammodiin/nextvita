@@ -12,20 +12,20 @@ const Header = ({ HeroComp }) => {
   return (
     <header>
       <nav>
-        <Link href="/">
-          <>
-            <a>
-              <Image src="/logo.png" alt="img-logo" width="211" height="60" />
-            </a>
-            <a>
-              <img
-                src="/logo2.png"
-                alt="img-logo-mobile"
-                width="60"
-                height="60"
-              />
-            </a>
-          </>
+        <Link href="/" passHref>
+          <a>
+            <Image src="/logo.png" alt="img-logo" width="211" height="60" />
+          </a>
+        </Link>
+        <Link href="/" passHref>
+          <a>
+            <Image
+              src="/logo2.png"
+              alt="img-logo-mobile"
+              width="60"
+              height="60"
+            />
+          </a>
         </Link>
         <ul>
           <li>
