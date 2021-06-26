@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import Image from "next/image";
 import Testimonials from "../components/Testimonials";
+import Button from "../components/Button";
 import { MDXProvider } from "@mdx-js/react";
 import { useRouter } from "next/router";
 import "../styles/main.css";
@@ -30,7 +31,7 @@ function MyApp({ Component, pageProps }) {
     };
   }, [router.events]);
   return (
-    <MDXProvider components={{ Image, Testimonials }}>
+    <MDXProvider components={{ Image, Testimonials, Button }}>
       <Component {...pageProps} />
     </MDXProvider>
   );
