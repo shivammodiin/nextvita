@@ -13,7 +13,7 @@ export default function Home() {
       <a
         target="_blank"
         rel="noopener"
-        href="https://github.com/shivammodi456/nextvita"
+        href="https://github.com/shivammodiin/nextvita"
       >
         <i>Github Repo ↗</i>
       </a>

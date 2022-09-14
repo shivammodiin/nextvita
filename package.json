@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shivammodi456/nextvita.git"
+    "url": "git+https://github.com/shivammodiin/nextvita.git"
   },
   "scripts": {
     "dev": "next dev",

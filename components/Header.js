@@ -40,7 +40,7 @@ const Header = ({ HeroComp }) => {
           </li>
           <li>
             <a
-              href="https://github.com/shivammodi456/nextvita"
+              href="https://github.com/shivammodiin/nextvita"
               aria-label="NextVita-Github"
               target="_blank"
               rel="noopener"

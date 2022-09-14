@@ -4,10 +4,10 @@
 
 ## Ready to go Next JS with attractive blue theme boilerplate
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fshivammodi456%2Fnextvita)
-![GitHub last commit](https://img.shields.io/github/last-commit/shivammodi456/nextvita)
-![GitHub repo size in bytes](https://img.shields.io/github/repo-size/shivammodi456/nextvita)
-[![License](https://img.shields.io/github/license/shivammodi456/nextvita)](LICENSE)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fshivammodiin%2Fnextvita)
+![GitHub last commit](https://img.shields.io/github/last-commit/shivammodiin/nextvita)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/shivammodiin/nextvita)
+[![License](https://img.shields.io/github/license/shivammodiin/nextvita)](LICENSE)
 
 NextVita is Next Js boilerplate aimed for 100% score in lighthouse 🚀 to get maximum benefits from Google Core Web Vital SEO update.
 
@@ -32,8 +32,8 @@ NextVita is Next Js boilerplate aimed for 100% score in lighthouse 🚀 to get m
 |                   |                                                  |
 | ----------------- | ------------------------------------------------ |
 | **Live Demo**     | https://nextvita.vercel.app                      |
-| **Git Repo**      | https://github.com/shivammodi456/nextvita        |
-| **Issue Tracker** | https://github.com/shivammodi456/nextvita/issues |
+| **Git Repo**      | https://github.com/shivammodiin/nextvita        |
+| **Issue Tracker** | https://github.com/shivammodiin/nextvita/issues |
 
 ## Tech
 
@@ -53,7 +53,7 @@ Node JS >= 10.0.0
 1. Clone and cd into project:
 
 ```
-git clone https://github.com/shivammodi456/nextvita
+git clone https://github.com/shivammodiin/nextvita
 cd nextvita
 ```
 
@@ -91,8 +91,8 @@ To build the project run `npm run build` and to start run `npm start` in product
 Want to improve NextVita? Feel free to submit your pull request or raise issue, we are welcoming all contributors.
 
 1. You'll need a GitHub account.
-2. Fork the [repository](https://github.com/shivammodi456/nextvita).
-3. Pick an issue to work on from [issue tracker](https://github.com/shivammodi456/nextvita/issues).
+2. Fork the [repository](https://github.com/shivammodiin/nextvita).
+3. Pick an issue to work on from [issue tracker](https://github.com/shivammodiin/nextvita/issues).
 4. Implement it.
 5. Or add features or improve design.
 6. Send merge request.

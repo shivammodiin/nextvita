@@ -7,7 +7,7 @@ const Footer = () => (
       Made with ❤ in{" "}
       <Link href="/">
         <a
-          href="https://github.com/shivammodi456/nextvita"
+          href="https://github.com/shivammodiin/nextvita"
           aria-label="NextVita"
           target="_blank"
           rel="noopener"
